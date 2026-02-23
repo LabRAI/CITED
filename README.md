@@ -1,5 +1,7 @@
 # CITED
 
+This repository provides the official implementation of the paper: _"CITED: A Decision Boundary-Aware Signature for GNNs Towards Model Extraction Defense"_
+
 ## Quick Start
 
 Using `uv` to install the environment
