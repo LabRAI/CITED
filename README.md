@@ -2,6 +2,22 @@
 
 This repository provides the official implementation of the paper: _"CITED: A Decision Boundary-Aware Signature for GNNs Towards Model Extraction Defense"_
 
+## Citation
+
+If you find this work helpful, please consider citing our paper. We sincerely appreciate your support and interest in our work.
+
+```bibtex
+@misc{shen2026cited,
+      title={CITED: A Decision Boundary-Aware Signature for GNNs Towards Model Extraction Defense}, 
+      author={Bolin Shen and Md Shamim Seraj and Zhan Cheng and Shayok Chakraborty and Yushun Dong},
+      year={2026},
+      eprint={2602.20418},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.20418}, 
+}
+```
+
 ## Quick Start
 
 Using `uv` to install the environment
